@@ -21,3 +21,14 @@ https://rinkeby.etherscan.io/address/0xfad8180469e06ac70963073a51b75702bf72bc3d
 ## Test smart contract tests all required functions.
 
 ![truffle test](images/testaccept.png)
+
+
+## Program version numbers
+
+node version: v10.16.3
+
+Truffle version: Truffle v5.1.67 (core: 5.1.67)
+
+Web3 version: v1.2.9
+
+Sodlity: Solidity v0.5.16
